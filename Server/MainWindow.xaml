@@ -9,8 +9,8 @@
     <Grid Background="#FF736C6C">
         <Button Content="Start" HorizontalAlignment="Left" Margin="618,27,0,0" VerticalAlignment="Top" Width="87" Background="#FF94D906" Height="32" Click="Button_Click_1"/>
         <Label Content="Host" HorizontalAlignment="Left" Margin="32,23,0,0" VerticalAlignment="Top" FontSize="18" FontFamily="MV Boli"/>
-        <TextBox x:Name="txthost" HorizontalAlignment="Left" Height="23" Margin="179,35,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Background="#FFDDE523" />
-        <TextBox x:Name="txtport" HorizontalAlignment="Left" Height="23" Margin="446,31,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Background="#FFDDE523"/>
+        <TextBox x:Name="txthost" HorizontalAlignment="Left" Height="23" Margin="179,35,0,0" TextWrapping="Wrap" Text="127.0.0.1" VerticalAlignment="Top" Width="120" Background="#FFDDE523" />
+        <TextBox x:Name="txtport" HorizontalAlignment="Left" Height="23" Margin="446,31,0,0" TextWrapping="Wrap" Text="2222" VerticalAlignment="Top" Width="120" Background="#FFDDE523"/>
         <Label Content="Port" HorizontalAlignment="Left" Margin="393,24,0,0" VerticalAlignment="Top" FontSize="18" FontFamily="MV Boli"/>
         <TextBox x:Name="txtstatus" HorizontalAlignment="Left" Height="247" Margin="32,126,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="654" Background="#FFDDE523"/>
         <Button x:Name="btn_stop" Content="Stop" HorizontalAlignment="Left" Margin="709,27,0,0" VerticalAlignment="Top" Width="75" Height="31" Background="#FFEB0A0A" Click="Button_Click"/>

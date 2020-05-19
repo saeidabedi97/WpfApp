@@ -14,3 +14,20 @@ C:\Users\User\Desktop\Uni Studies\Telecommunication Systems\WpfApp1\WpfApp1\obj\
 C:\Users\User\Desktop\Uni Studies\Telecommunication Systems\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
 C:\Users\User\Desktop\Uni Studies\Telecommunication Systems\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
 C:\Users\User\Desktop\Uni Studies\Telecommunication Systems\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\wpf2\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\wpf2\WpfApp1\bin\Debug\WpfApp1.exe
+D:\wpf2\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\wpf2\WpfApp1\bin\Debug\SimpleTCP.dll
+D:\wpf2\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\wpf2\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\wpf2\WpfApp1\obj\Debug\App.g.cs
+D:\wpf2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\wpf2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\wpf2\WpfApp1\obj\Debug\MainWindow.baml
+D:\wpf2\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\wpf2\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\wpf2\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\wpf2\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\wpf2\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\wpf2\WpfApp1\obj\Debug\WpfApp1.exe
+D:\wpf2\WpfApp1\obj\Debug\WpfApp1.pdb

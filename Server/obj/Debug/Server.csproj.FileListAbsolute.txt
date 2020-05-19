@@ -14,3 +14,20 @@ C:\Users\User\Desktop\Uni Studies\Telecommunication Systems\WpfApp1\Server\obj\D
 C:\Users\User\Desktop\Uni Studies\Telecommunication Systems\WpfApp1\Server\obj\Debug\Server.pdb
 C:\Users\User\Desktop\Uni Studies\Telecommunication Systems\WpfApp1\Server\obj\Debug\MainWindow.g.cs
 C:\Users\User\Desktop\Uni Studies\Telecommunication Systems\WpfApp1\Server\obj\Debug\MainWindow.baml
+D:\wpf2\Server\bin\Debug\Server.exe.config
+D:\wpf2\Server\bin\Debug\Server.exe
+D:\wpf2\Server\bin\Debug\Server.pdb
+D:\wpf2\Server\bin\Debug\SimpleTCP.dll
+D:\wpf2\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\wpf2\Server\obj\Debug\MainWindow.g.cs
+D:\wpf2\Server\obj\Debug\App.g.cs
+D:\wpf2\Server\obj\Debug\Server_MarkupCompile.cache
+D:\wpf2\Server\obj\Debug\Server_MarkupCompile.lref
+D:\wpf2\Server\obj\Debug\MainWindow.baml
+D:\wpf2\Server\obj\Debug\Server.g.resources
+D:\wpf2\Server\obj\Debug\Server.Properties.Resources.resources
+D:\wpf2\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\wpf2\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\wpf2\Server\obj\Debug\Server.csproj.CopyComplete
+D:\wpf2\Server\obj\Debug\Server.exe
+D:\wpf2\Server\obj\Debug\Server.pdb
