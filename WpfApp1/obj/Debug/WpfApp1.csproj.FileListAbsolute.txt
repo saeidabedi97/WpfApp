@@ -31,3 +31,5 @@ D:\wpf2\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
 D:\wpf2\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
 D:\wpf2\WpfApp1\obj\Debug\WpfApp1.exe
 D:\wpf2\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\wpf2\WpfApp1\obj\Debug\Login.g.cs
+D:\wpf2\WpfApp1\obj\Debug\Login.baml

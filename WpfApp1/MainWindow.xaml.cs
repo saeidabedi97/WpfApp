@@ -53,7 +53,7 @@ namespace WpfApp1
 
         private void btn_send_Click(object sender, RoutedEventArgs e)
         {
-            client.WriteLineAndGetReply(txtmessage.Text, TimeSpan.FromSeconds(3));
+            client.WriteLineAndGetReply(txtmessage.Text + "\n", TimeSpan.FromSeconds(3));
         }
     }
 }
