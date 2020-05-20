@@ -53,7 +53,7 @@ namespace Server
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-            txtstatus.Text = "Server starting...\n";
+            txtstatus.Text = "Server starting...\n" ;
             IPAddress ip = IPAddress.Parse(txthost.Text);
             server1.Start(ip, Convert.ToInt32(txtport.Text));
         }

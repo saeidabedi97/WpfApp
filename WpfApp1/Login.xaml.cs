@@ -48,7 +48,7 @@ namespace WpfApp1
                 if (count == 1)
                 {
 
-                    MainWindow dashboard = new MainWindow();
+                    MainWindow dashboard = new MainWindow(txtusername.Text);
                     dashboard.Show();
                     this.Close();
 

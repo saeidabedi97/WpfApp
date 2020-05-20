@@ -27,12 +27,22 @@ namespace WpfApp1
         }
         SimpleTcpClient client;
 
+        private string username;
+
+        public MainWindow(string usr)
+        {
+            InitializeComponent();
+            username = usr;
+            this.Title = usr;
+        }
         private void btn_start_Click(object sender, RoutedEventArgs e)
         {
-            txtstatus.Text += "server starting...";
+            txtstatus.Text += "server starting...\n";
             btn_connect.IsEnabled = false;
             client.Connect(txthost.Text, Convert.ToInt32(txtport.Text));
         }
+
+
         private void MainWindow_Load(object sender, EventArgs e)
         {
             client = new SimpleTcpClient();
@@ -53,7 +63,7 @@ namespace WpfApp1
 
         private void btn_send_Click(object sender, RoutedEventArgs e)
         {
-            client.WriteLineAndGetReply(txtmessage.Text + "\n", TimeSpan.FromSeconds(3));
+            client.WriteLineAndGetReply(username + ":" + txtmessage.Text + "\n", TimeSpan.FromSeconds(0));
         }
     }
 }
