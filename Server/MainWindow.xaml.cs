@@ -38,18 +38,18 @@ namespace Server
         }
         private void Server_DataReceived(object sender, SimpleTCP.Message e)
         {
+            server1.Broadcast(e.MessageString);
             txtstatus.Dispatcher.Invoke((Action)delegate ()
             {
                 txtstatus.Text += e.MessageString;
-                e.ReplyLine(string.Format("you said: {0}", e.MessageString));
             });
+        
 
 
 
 
 
-
-        }
+    }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
